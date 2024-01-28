@@ -1,4 +1,4 @@
-package me.bigfanoftim.common.domain.product;
+package me.bigfanoftim.common.product.domain;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;

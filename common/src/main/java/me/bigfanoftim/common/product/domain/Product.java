@@ -1,4 +1,4 @@
-package me.bigfanoftim.common.domain.product;
+package me.bigfanoftim.common.product.domain;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

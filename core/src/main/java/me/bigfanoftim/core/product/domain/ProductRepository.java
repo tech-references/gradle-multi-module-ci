@@ -1,4 +1,4 @@
-package me.bigfanoftim.common.product.domain;
+package me.bigfanoftim.core.product.domain;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,3 +1,4 @@
 rootProject.name = 'gradle-multi-module-ci'
 
-include 'common', 'api'
+include("api")
+include("core")

@@ -1,5 +1,7 @@
-package me.bigfanoftim.common.product.domain;
+package me.bigfanoftim.core.domain;
 
+import me.bigfanoftim.core.product.domain.Product;
+import me.bigfanoftim.core.product.domain.ProductRepository;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Nested;

@@ -48,6 +48,11 @@ bootJar.enabled = false
 
 project(":api") {
     dependencies {
-        implementation project(":common")
+        implementation project(":core")
     }
+}
+
+project(":core") {
+    bootJar { enabled = false }
+    jar { enabled = true }
 }

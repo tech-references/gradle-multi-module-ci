@@ -1,11 +1,11 @@
-package me.bigfanoftim.common;
+package me.bigfanoftim.core;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CommonApplicationTest {
+class CoreApplicationTests {
 
-    public void contextLoads() {
+    void contextLoads() {
 
     }
 }
